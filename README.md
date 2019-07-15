@@ -5,3 +5,5 @@
 *Counties with largest number of people emigrating from Silicon Valley*
 ![Median income and emigration rate polynomial regression](images/Median-Income-and-Emigration-Rate-Regression-normalized.png)
 *Correlation between lower county median incomes and higher rate of emigration from Silicon Valley*
+
+California geojson file used in this notebook is not included but it can be found at the [California Open Data Portal](https://data.ca.gov/dataset/census-tract-2010) 
