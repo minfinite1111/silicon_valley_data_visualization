@@ -6,5 +6,3 @@
 *Correlation between lower county median incomes and higher rate of emigration from Silicon Valley*
 
 California geojson file used in this notebook is not included but it can be found at the [California Open Data Portal](https://data.ca.gov/dataset/census-tract-2010) 
-
-The census emigration data is also not included but it can be found here. [Census Emigration Data 2013-2017 ACS](https://www.census.gov/data/tables/2017/demo/geographic-mobility/county-to-county-migration-2013-2017.html)
